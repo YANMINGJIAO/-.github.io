@@ -4,7 +4,7 @@
 カメラ音がなったりメッセージが表示されますが、実際に写真は取られませんし、特定されることもないのでご安心下さい。
 
 なにか問題がありましたら、下記のメールまでご連絡下さい。
-github335@stayhome.li
+nge746121@gmail.com
 
 
 
@@ -14,4 +14,4 @@ Since it was made for educational purposes, please do not abuse it.
 You will hear a camera sound and see a message, but rest assured that no photos are actually taken and you will not be identified.
 
 If you have any problems, please contact me by email below.
-github335@stayhome.li
+nge746121@gmail.com
