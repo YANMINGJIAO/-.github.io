@@ -22,7 +22,7 @@ const app = new Vue({
 	     this.message = "情報送信中..." //3.2秒経過までメッセージを表示する
       }, 3200)
       setTimeout(() => {
-	     location.href = "page-2.html" //4.0秒経過でpage-2.htmlに遷移
+	     location.href = "page-2.html" //4.0秒経過でpage-2.htmlに移動
       }, 4000)
 	 }
   }
