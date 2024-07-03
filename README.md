@@ -7,7 +7,6 @@
 nge746121@gmail.com
 
 
-
 It is a one-click fraud experience page.
 I created this page to let everyone know how one-click fraud works and to reduce the number of victims as much as possible.
 Since it was made for educational purposes, please do not abuse it.
